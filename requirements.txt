@@ -1,0 +1,4 @@
+coppeliasim-zmqremoteapi-client>=2.0.4
+opencv-python
+numpy
+matplotlib
