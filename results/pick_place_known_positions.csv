@@ -1,0 +1,4 @@
+color,cube_x,cube_y,placed_x,placed_y,placement_error_mm,result,cycle_time_s
+red,0.3,-0.15,-0.30000000000000004,0.30000000000000004,0.00,success,16.00
+green,0.42,0.05,-0.4,1.6637723088057632e-16,0.00,success,15.45
+blue,0.32,0.18,-0.3,-0.29999999999999993,0.00,success,16.50

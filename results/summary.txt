@@ -1,0 +1,18 @@
+E1: 30 trials, vision-based sorting
+  Cubes in total: 90
+  Detection recall (%): 100.0
+  Localization error mean / max (mm): 0.53 / 1.19
+  Grasp success (%): 100.0
+  Sorting success (%): 100.0
+  Placement error mean (mm): 0.53
+  Cycle time mean +- SD (s): 16.17 +- 1.78
+
+E2: noise robustness (sigma | precision % | recall % | loc. error mm | graspable %)
+    0 |  100.0 |  100.0 |   0.55 |  100.0
+   20 |  100.0 |  100.0 |   0.58 |  100.0
+   40 |  100.0 |  100.0 |   1.81 |  100.0
+   50 |  100.0 |   81.1 |   2.83 |   80.0
+   60 |  100.0 |   62.2 |   4.61 |   62.2
+   70 |   93.5 |   32.2 |   4.61 |   32.2
+   80 |  100.0 |   17.8 |   5.70 |   17.8
+  100 |    0.0 |    0.0 |    nan |    0.0
